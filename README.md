@@ -81,15 +81,6 @@ x402's adoption is still early: as of March 2026, reported daily transaction vol
 - **Contracts (optional):** Solidity, Foundry
 - **Frontend:** lightweight dashboard for transaction + verification visibility
 
-## Funding & grant opportunities
-
-- **Coinbase CDP Builder Grants** — past rounds funded projects using CDP Wallets, AgentKit, and Onramp (~$30K across a dozen-plus projects in 2025). Check the CDP developer platform for an open round.
-- **Hackathons** — the most concrete near-term path. The Algorand Builders Berlin "Agentic Commerce x402 Hackathon" (June 2026) ran a $21,000+ USDC prize pool for x402-based agent commerce and infrastructure; ETHGlobal and similar circuits regularly run agent/payments tracks.
-- **Tether Developer Grants Program** (opened May 2026) — funds local-first AI and payments infrastructure, task-based payouts of $1,500–$4,000, uncapped total.
-- **VC / accelerator funding** — "verifiable agent-to-agent commerce" is a thesis several funds (a16z crypto, Coinbase Ventures) have written about publicly; best pursued once there's a working demo.
-
-**Strongest next move:** build the smallest possible end-to-end slice — one real x402 payment on Base Sepolia testnet, one TEE-attested inference call — and use that working demo to apply to a hackathon or grant program.
-
 ## Status
 
 Early scaffolding. README and roadmap only — implementation in progress.
